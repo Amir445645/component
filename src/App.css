@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: x-large;
+  font-weight: bold;
+  border: 3px solid black;
+  max-width: 300px;
+  margin-top: 200px;
+  margin-left: 600px;
+  color: rgba(0, 0, 255, 0.192);
+  /*background-color: grey;*/
+}
